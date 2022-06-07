@@ -1,5 +1,6 @@
 ---
 layout: page
+comments: true
 title: Generic
 image: assets/images/pic11.jpg
 ---
