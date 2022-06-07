@@ -30,7 +30,11 @@
                   {% endif %}
 
                 {{ content }}
-
+                {% if page.comments %}
+                  {% if site.disqus.shortname %}
+                    {% include disqus.html %}
+                  {% endif %}
+                {% endif %}
               </div>
           </div>
 
