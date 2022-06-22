@@ -16,11 +16,15 @@
         <!-- Main -->
         <div id="main">
             <div class="inner">
-
+                
                 {% include header.html %}
-                {% include banner.html %}
 
+                {% if page.banner %}
+                    {% include banner.html %}
+                {% endif %}
+                <section>
                 {{ content }}
+                </section>
                 {% if page.comments %}
                     {% if site.disqus.shortname %}
                         {% include disqus.html %}
