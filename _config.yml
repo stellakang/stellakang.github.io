@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Docs
-description: A Jekyll theme for documentation
+title: logger.info(Stella)
+description: stellakang diary
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://just-the-docs.com" # the base hostname & protocol for your site, e.g. http://example.com
-repository: just-the-docs/just-the-docs # for github-metadata
+url: "https://stellakang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: stellakang/stellakang.github.io # for github-metadata
 
 permalink: pretty
 
@@ -88,7 +88,7 @@ mermaid:
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
   version: "9.1.6"
   # Put any additional configuration, such as setting the theme, in _includes/mermaid_config.js
-  # See also docs/ui-components/code
+  # See also docs/frontend/code
   # To load mermaid from a local library, also use the `path` key to specify the location of the library; e.g.
   # for (v10+):
   # path: "/assets/js/mermaid.esm.min.mjs"
