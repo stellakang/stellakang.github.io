@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Day01
+title: Day01 Wildcard Matching
 parent: LeetCode
 grand_parent: Algorithm
 nav_order: 1
