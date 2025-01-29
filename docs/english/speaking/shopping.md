@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Fashion/Shopping
-parent: Speaking Expressions
+parent: Speaking Vocabulary & Expressions
 grand_parent: English
-nav_order: 1
+nav_order: 2
 ---
 
 # Fashion / Shopping   

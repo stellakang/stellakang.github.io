@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Speaking Expressions
+title: Speaking Vocabulary & Expressions
 parent: English
 nav_order: 1
 has_children: true
